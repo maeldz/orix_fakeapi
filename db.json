@@ -11,17 +11,32 @@
     {
       "id": 1,
       "title": "Fast Food",
-      "color": "#E6F9F5"
+      "color": "#E6F9F5",
+      "image": "https://i.imgur.com/8yRIizY.png"
     },
     {
       "id": 2,
       "title": "Drinks",
-      "color": "#FCF1EA"
+      "color": "#FCF1EA",
+      "image": "https://i.imgur.com/lrzIiKM.png"
     },
     {
       "id": 3,
-      "title": "Heal",
-      "color": "#EDECFF"
+      "title": "Candies",
+      "color": "#EDECFF",
+      "image": "https://i.imgur.com/mxhsiFh.png"
+    },
+    {
+      "id": 4,
+      "title": "Ice Cream",
+      "color": "#b9e4fb",
+      "image": "https://i.imgur.com/dsYj7ir.png"
+    },
+    {
+      "id": 5,
+      "title": "Mexican Food",
+      "color": "#fac4a8",
+      "image": "https://i.imgur.com/ZkDGbVl.png"
     }
   ],
   "products": [
