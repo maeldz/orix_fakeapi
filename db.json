@@ -7,6 +7,24 @@
       "password": "123456"
     }
   ],
+  "addresses": [
+    {
+      "id": 1,
+      "type": "Home",
+      "street": "1060  Post Avenue",
+      "city": "Natchitoches",
+      "state": "LA",
+      "zip": "71457"
+    },
+    {
+      "id": 2,
+      "type": "Office",
+      "street": "4518  Wilkinson Court",
+      "city": "Alva",
+      "state": "FL",
+      "zip": "33920"
+    }
+  ],
   "categories": [
     {
       "id": 1,
