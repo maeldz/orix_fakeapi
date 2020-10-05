@@ -10,6 +10,7 @@
   "addresses": [
     {
       "id": 1,
+      "userId": 1,
       "type": "Home",
       "street": "1060  Post Avenue",
       "city": "Natchitoches",
@@ -18,6 +19,7 @@
     },
     {
       "id": 2,
+      "userId": 1,
       "type": "Office",
       "street": "4518  Wilkinson Court",
       "city": "Alva",
